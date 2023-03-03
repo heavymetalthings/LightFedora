@@ -1,5 +1,6 @@
 sudo dnf update -y
 sudo dnf install \
+  dpkg\
   rofi\
   htop\
   ranger\
