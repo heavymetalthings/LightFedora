@@ -19,3 +19,4 @@ make install installrunit
 ln -s /etc/sv/ly /var/service/
 rm /var/service/gdm
 rm /var/service/agetty-tty2
+sudo dnf install gnome-boxes
