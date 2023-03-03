@@ -6,6 +6,8 @@ sudo dnf install \
   ranger\
   -y
 sudo dnf install @base-x -y
+sudo dnfinstall xterm
+
 dnf copr enable frostyx/qtile
 dnf install qtile
 dnf install qtile-extras
