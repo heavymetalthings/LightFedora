@@ -4,7 +4,6 @@ sudo dnf install \
   htop\
   ranger\
   -y
-  
 sudo dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
 git clone --recurse-submodules https://github.com/fairyglade/ly
 cd ly
