@@ -4,6 +4,9 @@ sudo dnf install \
   htop\
   ranger\
   -y
+dnf copr enable frostyx/qtile
+dnf install qtile
+dnf install qtile-extras
 sudo dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
 git clone --recurse-submodules https://github.com/fairyglade/ly
 cd ly
@@ -17,6 +20,6 @@ rc-update del agetty.tty2
 make
 make install installrunit
 ln -s /etc/sv/ly /var/service/
-rm /var/service/gdm
-rm /var/service/agetty-tty2
+
+
 sudo dnf install gnome-boxes
