@@ -92,6 +92,22 @@ We need to install a display manager.
 
 ## Setting up qtile
 
-My favorie window manager is qtile (because it's python :grin:)
+My favorie window manager is qtile (because it's python). :grin:
+I like using polybar and picom with it, although it is a bit heavier...
+Although, we probably will be using less RAM than Gnome
 
 ## Conclusion
+
+After installing, just clone the repo and use it as it will install everything.
+
+I plan on doing few versions of it :
+- Simple, with qtile only :
+    - Xorg
+    - ly
+    - qtile
+- Less simple, with :
+    - picom
+    - polybar
+    - rofi
+    - conky
+-Even less simple, with all the tools I like.
