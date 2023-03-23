@@ -44,3 +44,11 @@ Once you boot in the ISO, you should come to this page :
 
 ![image3](/assets/images/3.png)
 
+Pick your location and language and click on "continue". 
+You should now be supposed to see this menu
+
+![image4](/assets/images/4.png)
+
+Be careful to change the keyboard setting to your keyboard layout!
+
+
