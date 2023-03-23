@@ -18,7 +18,7 @@ make
 make install installsystemd
 systemctl enable ly.service
 systemctl disable getty@tty2.service
-make install installopenrc
+#make install installopenrc
 rc-update add ly
 rc-update del agetty.tty2
 make
