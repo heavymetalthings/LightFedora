@@ -4,6 +4,8 @@
 
 The following steps are the way you can create your own desktop environment using Fedora
 
+# Road map
+
 The first step is to install the minimal Fedora OS
 
 The following things will be installed right after :
@@ -22,3 +24,4 @@ If you are satisfied with those, you can stop and add your own stuff, although I
 - VSCodium
 - gnome-boxes
 - libreoffice
+
