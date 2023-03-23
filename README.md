@@ -94,7 +94,7 @@ We need to install a display manager.
 
 My favorie window manager is qtile (because it's python). :grin:
 I like using polybar and picom with it, although it is a bit heavier...
-Although, we probably will be using less RAM than Gnome
+Anyways, we probably will be using less RAM than Gnome
 
 ## Conclusion
 
