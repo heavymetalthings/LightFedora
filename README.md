@@ -88,9 +88,9 @@ now we can proceed to install all the packages that we want !
 
 This will install the Xorg package
 
-...
+```
 sudo dnf install @base-x -y
-...
+```
 
 ## Setting up the DM
 
