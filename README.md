@@ -33,8 +33,14 @@ First, we are going to pick the ISO installer, so, go on the fedora website, and
 
 ![image1](/assets/images/1.png)
 
-Second, pick the x64 netinst version, hoping you have an internet connection :)
+Second, pick the 64 bits netinst version, hoping you have an internet connection :)
 
 ![image2](/assets/images/2.png)
 
+Then we can start the install.
+If you are using windows, you can use either balenaetcher or rufus to burn the ISO on a USB key.
+
+Once you boot in the ISO, you should come to this page :
+
+![image3](/assets/images/3.png)
 
