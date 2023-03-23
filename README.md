@@ -92,4 +92,6 @@ We need to install a display manager.
 
 ## Setting up qtile
 
+My favorie window manager is qtile (because it's python )
+
 ## Conclusion
