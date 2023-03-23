@@ -88,5 +88,8 @@ now we can proceed to install all the packages that we want !
 
 ## Setting up the DM
 
+We need to install a display manager. 
+
 ## Setting up qtile
 
+## Conclusion
