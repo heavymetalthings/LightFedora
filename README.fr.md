@@ -1,1 +1,1 @@
-#Fedora light install
+#Installation légère de Fedora
