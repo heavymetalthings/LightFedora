@@ -29,5 +29,12 @@ If you are satisfied with those, you can stop and add your own stuff, although I
 
 ## Installing stock Fedora
 
+First, we are going to pick the ISO installer, so, go on the fedora website, and pick the server edition 
+
 ![image1](/assets/images/1.png)
+
+Second, pick the x64 netinst version, hoping you have an internet connection :)
+
+![image2](/assets/images/2.png)
+
 
