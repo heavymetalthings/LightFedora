@@ -2,7 +2,7 @@ sudo dnf update -y
 sudo dnf install \
   dpkg\
   rofi\
-  htop\
+  btop\
   ranger\
   -y
 sudo dnf install @base-x -y
