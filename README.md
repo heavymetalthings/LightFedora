@@ -78,6 +78,15 @@ Once it's finished installing, you can reboot and remove your usb stick (just re
 
 ## TTY!
 
-Once your machine reboots, you should see this on your screen :
+Once your machine reboots, you should see this on your screen, after logging in :
 
 ![image10](/assets/images/10.png)
+
+now we can proceed to install all the packages that we want !
+
+## Installing X
+
+## Setting up the DM
+
+## Setting up qtile
+
