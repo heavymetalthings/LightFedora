@@ -74,7 +74,7 @@ Pick your username (LEAVE THE ROOT PARAMETER AS IT IS), and your password. for c
 ![image9](/assets/images/9.png)
 
 And now we can press the "Begin installation" button !
-Once it's finished installing, you can reboot and remove your usb stick (just reboot if in a VM), and voilà!
+Once it's finished installing, you can reboot and remove your usb stick (just reboot if in a VM), and voilà !
 
 ## TTY!
 
