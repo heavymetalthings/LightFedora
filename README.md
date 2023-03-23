@@ -92,6 +92,9 @@ This will install the Xorg package
 sudo dnf install @base-x -y
 ```
 
+Once it's done, start crying.
+Just kidding, 
+
 ## Setting up the DM
 
 We need to install a display manager. 
