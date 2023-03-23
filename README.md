@@ -64,3 +64,14 @@ If you are using the entire disk (here my virtual machine), you can use the enti
 And then selecting the entire disk partition to be deleted :
 
 ![image7](/assets/images/7.png)
+
+Now, we can select which software to install. We will pick the minimal install :
+
+![image8](/assets/images/8.png)
+
+Pick your username (LEAVE THE ROOT PARAMETER AS IT IS), and your password. for convenience if you're using a VM, you can pick a very short password, but if it's your computer, better use a strong password :
+
+![image9](/assets/images/9.png)
+
+## TTY!
+
