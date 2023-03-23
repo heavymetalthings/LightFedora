@@ -1,1 +1,1 @@
-#Fedora light install
+# Fedora light install
