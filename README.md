@@ -55,5 +55,12 @@ Mine is a french layout, so I put french(alt.) :
 
 ![image5](/assets/images/5.png)
 
+Don't touch to the installation source parameter
 
+If you are using the entire disk (here my virtual machine), you can use the entire disk by ticking the "free up space..." box :
 
+![image6](/assets/images/6.png)
+
+And then selecting the entire disk partition to be deleted :
+
+![image7](/assets/images/7.png)
