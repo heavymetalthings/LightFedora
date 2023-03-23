@@ -78,3 +78,6 @@ Once it's finished installing, you can reboot and remove your usb stick (just re
 
 ## TTY!
 
+Once your machine reboots, you should see this on your screen :
+
+![image10](/assets/images/10.png)
