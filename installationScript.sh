@@ -27,3 +27,5 @@ ln -s /etc/sv/ly /var/service/
 
 
 sudo dnf install gnome-boxes
+
+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
