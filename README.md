@@ -25,3 +25,9 @@ If you are satisfied with those, you can stop and add your own stuff, although I
 - gnome-boxes
 - libreoffice
 
+# Making your own DE!
+
+## Installing stock Fedora
+
+![image1](/assets/images/1.png)
+
