@@ -6,7 +6,7 @@ sudo dnf install \
   ranger\
   -y
 sudo dnf install @base-x -y
-sudo dnfinstall xterm
+sudo dnf install xterm
 
 dnf copr enable frostyx/qtile
 dnf install qtile
@@ -28,4 +28,3 @@ ln -s /etc/sv/ly /var/service/
 
 sudo dnf install gnome-boxes
 
-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
