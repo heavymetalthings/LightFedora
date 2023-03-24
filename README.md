@@ -121,7 +121,6 @@ Then, we can clone the repository, pick the directory ly, and compile :
 git clone --recurse-submodules https://github.com fairyglade/ly
 cd ly
 make
-
 ```
 
 
@@ -138,7 +137,7 @@ After installing, just clone the repo and use it as it will install everything.
 I plan on doing few versions of it :
 - Simple, with qtile only :
     - Xorg
-    - ly
+    - Ly
     - qtile
 - Less simple, with :
     - picom
@@ -150,4 +149,4 @@ I plan on doing few versions of it :
 
 # Links
 
-[Link to ly github](https://github.com/fairyglade/ly)
+[Link to Ly github](https://github.com/fairyglade/ly)
