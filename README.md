@@ -135,6 +135,10 @@ We're gonna test with :
 make run
 ```
 
+And the output is (fortunately!) :
+
+![image12](/assets/images/12.png)
+
 ## Setting up qtile
 
 My favorie window manager is qtile (because it's python). :grin:
