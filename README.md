@@ -104,10 +104,16 @@ Just kidding,
 
 We need to install a display manager. 
 
-Ly is pretty minimalistic and looks good IMO, so, that's why I chose it. In fedora, this line will add the dependancies :
+Ly is pretty minimalistic and looks good IMO, so, that's why I chose it. Enevn better, qtile was tested successfully under ly! In fedora, this line will add the dependancies :
 
 ```
-dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
+sudo dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
+```
+
+To allow the following steps, we need to install the git package :
+
+```
+sudo dnf install git -y
 ```
 
 ## Setting up qtile
