@@ -129,4 +129,4 @@ I plan on doing few versions of it :
 
 # Links
 
-https://github.com/fairyglade/ly
+[Link to ly github](https://github.com/fairyglade/ly)
