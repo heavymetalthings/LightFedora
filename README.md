@@ -127,6 +127,14 @@ Your screen should look like this (or nearly):
 
 ![image11](/assets/images/11.png)
 
+Now, it's where the fun really begins !
+
+We're gonna test with :
+
+```
+make run
+```
+
 ## Setting up qtile
 
 My favorie window manager is qtile (because it's python). :grin:
