@@ -168,6 +168,14 @@ My favorie window manager is qtile (because it's python). :grin:
 I like using polybar and picom with it, although it is a bit heavier...
 Anyways, we probably will be using less RAM than Gnome
 
+So, these commands enable the copr repo, and installs qtile :
+
+```
+dnf copr enable frostyx/qtile
+dnf install qtile
+dnf install qtile-extras
+```
+
 ## Conclusion
 
 After installing, just clone the repo and use it as it will install everything.
