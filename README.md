@@ -139,6 +139,14 @@ And the output is (fortunately!) :
 
 ![image12](/assets/images/12.png)
 
+Installation of Ly and systemd service providing (sudo or it won't work, with denied permission) :
+
+```
+sudo make install installsystemd
+```
+
+
+
 ## Setting up qtile
 
 My favorie window manager is qtile (because it's python). :grin:
