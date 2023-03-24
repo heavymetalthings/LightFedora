@@ -123,6 +123,9 @@ cd ly
 make
 ```
 
+Your screen should look like this (or nearly):
+
+![image11](/assets/images/11.png)
 
 ## Setting up qtile
 
