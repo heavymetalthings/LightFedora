@@ -10,6 +10,7 @@ The first step is to install the minimal Fedora OS
 
 The following things will be installed right after :
 - Xorg
+- ranger
 - ly
 - qtile
 - picom
@@ -84,6 +85,10 @@ Once your machine reboots, you should see this on your screen, after logging in 
 
 now we can proceed to install all the packages that we want !
 
+## A linux desktop?
+
+So, basically, your average linux distro is a desktop environment (DE) ran by a 
+
 ## Installing X
 
 This will install the Xorg package
@@ -119,4 +124,9 @@ I plan on doing few versions of it :
     - polybar
     - rofi
     - conky
+    - ranger
 -Even less simple, with all the tools I like.
+
+# Links
+
+https://github.com/fairyglade/ly
