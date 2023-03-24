@@ -150,9 +150,17 @@ Then you have to enable the service :
 systemctl enable ly.service
 ```
 
-You will be asked to authenticate as shown here :
+You will be asked to authenticate as well as if you choose to prevent the login to pop on top of tty :
+
+```
+systemctl disable getty@tty2.service
+```
+
+What you are supposed to see :
 
 ![image13](/assets/images/13.png)
+
+
 
 ## Setting up qtile
 
