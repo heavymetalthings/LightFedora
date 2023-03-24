@@ -116,6 +116,15 @@ To allow the following steps, we need to install the git package :
 sudo dnf install git -y
 ```
 
+Then, we can clone the repository, pick the directory ly, and compile :
+```
+git clone --recurse-submodules https://github.com fairyglade/ly
+cd ly
+make
+
+```
+
+
 ## Setting up qtile
 
 My favorie window manager is qtile (because it's python). :grin:
