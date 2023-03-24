@@ -104,6 +104,12 @@ Just kidding,
 
 We need to install a display manager. 
 
+Ly is pretty minimalistic and looks good IMO, so, that's why I chose it. In fedora, this line will add the dependancies :
+
+```
+dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
+```
+
 ## Setting up qtile
 
 My favorie window manager is qtile (because it's python). :grin:
