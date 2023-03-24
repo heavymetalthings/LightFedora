@@ -144,8 +144,15 @@ Installation of Ly and systemd service providing (sudo or it won't work, with de
 ```
 sudo make install installsystemd
 ```
+Then you have to enable the service :
 
+```
+systemctl enable ly.service
+```
 
+You will be asked to authenticate as shown here :
+
+![image13](/assets/images/13.png)
 
 ## Setting up qtile
 
