@@ -97,11 +97,6 @@ So, basically, your average linux distro is a desktop environment (DE) ran by a
 sudo dnf install git -y
 ```
 
-### cargo
-
-```
-sudo dnf install cargo -y
-```
 
 ## Installing X
 
@@ -113,13 +108,6 @@ sudo dnf install @base-x -y
 
 Once it's done, start crying.
 Just kidding, 
-
-## Setting up the DM
-
-We need to install a display manager. 
-
-
-
 
 ## Setting up qtile
 
@@ -133,6 +121,21 @@ So, these commands enable the copr repo, and installs qtile :
 dnf copr enable frostyx/qtile
 dnf install qtile
 dnf install qtile-extras
+```
+
+From your main directory, go to the root directory by typing two times 
+
+```
+cd ..
+```
+
+## Setting up the DM
+
+We need to install a display manager. 
+
+```
+sudo dnf install lightdm
+sudo systemctl enable lightdm
 ```
 
 ## Conclusion
