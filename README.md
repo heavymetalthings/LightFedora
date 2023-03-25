@@ -89,6 +89,20 @@ now we can proceed to install all the packages that we want !
 
 So, basically, your average linux distro is a desktop environment (DE) ran by a 
 
+## Prerequisites
+
+### git
+
+```
+sudo dnf install git -y
+```
+
+### cargo
+
+```
+sudo dnf install cargo -y
+```
+
 ## Installing X
 
 This will install the Xorg package
@@ -103,6 +117,8 @@ Just kidding,
 ## Setting up the DM
 
 We need to install a display manager. 
+
+
 
 
 ## Setting up qtile
