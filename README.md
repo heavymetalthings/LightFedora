@@ -11,7 +11,7 @@ The first step is to install the minimal Fedora OS
 The following things will be installed right after :
 - Xorg
 - ranger
-- ly
+- 
 - qtile
 - picom
 - polybar
@@ -103,63 +103,6 @@ Just kidding,
 ## Setting up the DM
 
 We need to install a display manager. 
-
-Ly is pretty minimalistic and looks good IMO, so, that's why I chose it. Enevn better, qtile was tested successfully under ly! In fedora, this line will add the dependancies :
-
-```
-sudo dnf install make automake gcc gcc-c++ kernel-devel pam-devel libxcb-devel
-```
-
-To allow the following steps, we need to install the git package :
-
-```
-sudo dnf install git -y
-```
-
-Then, we can clone the repository, pick the directory ly, and compile :
-```
-git clone --recurse-submodules https://github.com fairyglade/ly
-cd ly
-make
-```
-
-Your screen should look like this (or nearly):
-
-![image11](/assets/images/11.png)
-
-Now, it's where the fun really begins !
-
-We're gonna test with :
-
-```
-make run
-```
-
-And the output is (fortunately!) :
-
-![image12](/assets/images/12.png)
-
-Installation of Ly and systemd service providing (sudo or it won't work, with denied permission) :
-
-```
-sudo make install installsystemd
-```
-Then you have to enable the service :
-
-```
-systemctl enable ly.service
-```
-
-You will be asked to authenticate as well as if you choose to prevent the login to pop on top of tty :
-
-```
-systemctl disable getty@tty2.service
-```
-
-What you are supposed to see :
-
-![image13](/assets/images/13.png)
-
 
 
 ## Setting up qtile
