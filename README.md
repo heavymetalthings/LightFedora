@@ -89,12 +89,11 @@ now we can proceed to install all the packages that we want !
 
 So, basically, your average linux distro is a desktop environment (DE) ran by a 
 
-## Prerequisites
+## Terminal
 
-### git
-
+Alactritty :
 ```
-sudo dnf install git -y
+sudo dnf install alacritty -y
 ```
 
 
