@@ -137,6 +137,20 @@ sudo systemctl enable lightdm
 sudo dnf install slick-greeter
 ```
 
+## Pimp my ride
+
+```
+sudo dnf install polybar
+```
+
+```
+sudo dnf install picom
+```
+
+```
+sudo dnf install conky
+```
+
 ## Conclusion
 
 After installing, just clone the repo and use it as it will install everything.
