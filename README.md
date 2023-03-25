@@ -106,8 +106,7 @@ This will install the Xorg package
 sudo dnf install @base-x -y
 ```
 
-Once it's done, start crying.
-Just kidding, 
+Once it's done, start crying (just kidding).
 
 ## Setting up qtile
 
@@ -136,6 +135,7 @@ We need to install a display manager.
 ```
 sudo dnf install lightdm
 sudo systemctl enable lightdm
+sudo dnf install slick-greeter
 ```
 
 ## Conclusion
